@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/felix/Downloads/Scriptie/bluevotes-master/src/contracts/SLCAVotes.sol": {
+      "lastModificationDate": 1675057108430,
+      "contentHash": "1126997dd9bd57e5c9dc9c6af8a63ca1",
+      "sourceName": "src/contracts/SLCAVotes.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "SLCAVotes"
+      ]
+    }
+  }
+}
